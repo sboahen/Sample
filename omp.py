@@ -11,5 +11,9 @@ def ii(x):
     return x
 
 
+
 print(3)
 print(5)
+
+def k2(o):
+    return
