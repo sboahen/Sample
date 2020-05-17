@@ -9,3 +9,7 @@ def ii(x):
     
     print(129123)
     return x
+
+
+def k2(o):
+    return
