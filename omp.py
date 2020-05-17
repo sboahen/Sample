@@ -7,5 +7,5 @@ Created on Sun May 17 00:09:26 2020
 
 def ii(x):
     
-    print(1)
+    print(12)
     return x
