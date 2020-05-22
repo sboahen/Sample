@@ -13,6 +13,7 @@ def ii(x):
 
 
 print(5)
+print(6)
 
 def k2(o):
     return
