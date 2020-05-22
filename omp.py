@@ -12,8 +12,10 @@ def ii(x):
 
 
 
-print(3)
 print(5)
 
 def k2(o):
     return
+
+def k3(x):
+    return x
